@@ -21,6 +21,7 @@
 - Sensoren (Radar, Video, Laser) und Aktoren (Motorsteuerung, Lenkung, Bremsen)
 - über Sensordaten wird ein Bild der Umwelt geformt, wodurch automatische Fahrentscheidungen an die Aktoren weitergeleitet werden können
 - große Datenmenge für die verschiedenen Verkehrszeichen nötig (Maschinelles Lernen)
+- bereits heute einsetzbar (siehe Tesla etc)
 
 ###### Geschirrspüler
 
