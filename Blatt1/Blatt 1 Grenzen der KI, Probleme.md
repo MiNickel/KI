@@ -62,15 +62,15 @@
 
 https://botster.lentech.org/ :
 
-![71e4c9c4c2d079f2397e9a0b23792da4](F:\Info\5.Semester\Künstliche Intelligenz\Praktikum\Blatt 1\71e4c9c4c2d079f2397e9a0b23792da4.png)
+![Botster](https://raw.githubusercontent.com/MiNickel/KI/Blatt1/Blatt1/bilder/wtf.png)
 
 https://www.cleverbot.com/ :
 
-![d5ae115cf7daac907e8a3235f1adc795](F:\Info\5.Semester\Künstliche Intelligenz\Praktikum\Blatt 1\d5ae115cf7daac907e8a3235f1adc795.png)
+![cleverbot](https://raw.githubusercontent.com/MiNickel/KI/Blatt1/Blatt1/bilder/cleverbot.png)
 
 http://www.electric-code.co.uk/talk2me.html :
 
-![fbb71f15d61b4bc35df09067827a590a](F:\Info\5.Semester\Künstliche Intelligenz\Praktikum\Blatt 1\fbb71f15d61b4bc35df09067827a590a.png)
+![fbb71f15d61b4bc35df09067827a590a](https://raw.githubusercontent.com/MiNickel/KI/Blatt1/Blatt1/bilder/electric-code.png)
 
 - zwei Arten von Chatbots: 1. Bots, die nach Regeln funktionieren, 2. Bots, die Machine Learning nutzen
 
@@ -109,4 +109,4 @@ Pferd += 1 Elbe, 1 Ork; += 2 Orks; += 1 Elbe; += 1 Ork
 
 Ufer 2 += 1 Elbe; += 1 Ork; += 2 Orks; += 1 Elbe, 1 Ork
 
-![Problemgraph](F:\Info\5.Semester\Künstliche Intelligenz\Praktikum\Blatt 1\Problemgraph.jpg)
+![Problemgraph](https://raw.githubusercontent.com/MiNickel/KI/Blatt1/Blatt1/bilder/Problemgraph.jpg)
