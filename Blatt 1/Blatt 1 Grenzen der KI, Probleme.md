@@ -74,7 +74,7 @@ http://www.electric-code.co.uk/talk2me.html :
 
 - zwei Arten von Chatbots: 1. Bots, die nach Regeln funktionieren, 2. Bots, die Machine Learning nutzen
 
-###Aufgabe 4
+### Aufgabe 4
 
 Zustände:
 
