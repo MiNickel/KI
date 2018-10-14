@@ -45,7 +45,7 @@
 
   http://moralmachine.mit.edu/
 
-  ![MIT-Moral Machine](https://raw.githubusercontent.com/MiNickel/KI/Blatt1/bilder/MIT.jpg)
+  ![MIT-Moral Machine](https://raw.githubusercontent.com/MiNickel/KI/Blatt1/Blatt1/bilder/MIT.jpg)
 
 - KI kann die Arbeit eines Menschen ersetzen (Destabilisierung der Gesellschaft)
 
