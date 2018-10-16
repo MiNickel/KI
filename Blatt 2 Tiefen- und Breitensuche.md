@@ -18,6 +18,10 @@ Tiefensuche:
 
 [WFMa, WN] -> WFKM gefunden
 
+- Backtracking bei Erfurt
+
+![Tiefensuche](https://raw.githubusercontent.com/MiNickel/KI/Blatt2/Tiefensuche.jpg)
+
 
 
 Breitensuche:
@@ -97,7 +101,7 @@ Also gilt:
 
 f(x) &#8804; K* < f(L<sub>2</sub>)
 
-Solange sich Knoten eines optimalen Pfades in der Liste befinden, wird die suboptimale Lösung nie gewählt.
+Solange sich Knoten eines optimalen Pfades in der Liste befinden, wird die suboptimale Lösung nie gewählt,
 
 
 
