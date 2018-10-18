@@ -81,6 +81,12 @@ Die geschätzten Restkosten von Nürnberg nach München müssen kleiner oder gle
 
 
 
+### Aufgabe 4
+
+h<sub>1</sub>(n) dominiert h<sub>2</sub>(n) wenn h<sub>1</sub>(n) >= h<sub>2</sub>(n) für alle n (und beide zulässig sind)
+
+
+
 ### Aufgabe 5
 
 L<sub>1</sub> sei eine optimale Lösung mit Kosten K* und L<sub>2</sub> eine suboptimale Lösung. Für jeden Zielknoten gilt: 
