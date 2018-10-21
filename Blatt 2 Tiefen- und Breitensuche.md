@@ -111,6 +111,15 @@ Solange sich Knoten eines optimalen Pfades in der Liste befinden, wird die subop
 
 
 
+### Aufgabe 6
+
+- A* - Algorithmus wird oft zur Wegsuche bei Routenplanern oder in Computerspielen benutzt. Dabei wird als Heuristik meistens er Luftlinienabstand zum Ziel verwendet
+
+- Ein weiterer Anwendungsfall wäre das Damenproblem, bei dem ein vorgegebener Zielzustand erreicht werden soll -> Heuristik: Anzahl der falsch platzierten Steine
+
+- 
+
+
 
 
 
