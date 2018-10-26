@@ -36,3 +36,19 @@ Kodierung:
 
 
 
+###### c)
+
+Kodierung: Jeder Index gibt eine Position einer Dame in einer Zeile an
+
+Fitnessfunktion: negierte Zahl der Spalten und Diagonalen mit mehr als einer Dame (Lösung hat also die Fitness 0)
+
+Crossover: Es wird eine zufällige Trennstelle zwischen zwei Individuen gewählt und die beiden Teile werden vertauscht
+
+Mutation: Zufällig gewählte Indizes werden zufällig ersetzt
+
+
+
+Für das Simulated Annealing benötigt man noch einen Abkühlungsplan
+
+
+
