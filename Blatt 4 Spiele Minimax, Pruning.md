@@ -6,6 +6,10 @@ a)
 
 ![A1a](https://raw.githubusercontent.com/MiNickel/KI/Blatt4/A1a.png)
 
+b)
+
+![A1b](https://raw.githubusercontent.com/MiNickel/KI/Blatt4/A1b.png)
+
 #### Aufgabe 4
 
 ![A4](https://raw.githubusercontent.com/MiNickel/KI/Blatt4/A4.jpg)
