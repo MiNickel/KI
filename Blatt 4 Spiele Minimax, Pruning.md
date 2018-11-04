@@ -10,6 +10,12 @@ b)
 
 ![A1b](https://raw.githubusercontent.com/MiNickel/KI/Blatt4/A1b.png)
 
+c)
+
+![A1c](https://raw.githubusercontent.com/MiNickel/KI/Blatt4/A1c.png)
+
+
+
 #### Aufgabe 4
 
 ![A4](https://raw.githubusercontent.com/MiNickel/KI/Blatt4/A4.jpg)
