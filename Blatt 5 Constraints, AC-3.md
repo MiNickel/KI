@@ -58,3 +58,8 @@ b)
 
 
 
+#### 5 Anwendungen
+
+- Logikrätsel allgemein
+- Natural-language understanding (Das Verstehen von Texten durch eine KI)
+- Ressourcenallokationen
