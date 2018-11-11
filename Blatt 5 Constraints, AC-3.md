@@ -30,7 +30,7 @@ Z<sub>i</sub> = { Kools, Chesterfields, Winston, Lucky-Strike, Parliaments }
 
 #### 3 Forward Checking und Kantenkonsistenz
 
-V = { v1, v2, v3, v4, v5, v6 }
+/* V = { v1, v2, v3, v4, v5, v6 }
 
 
 
@@ -42,7 +42,7 @@ D<sub>v1</sub> = { 2 }
 
 D<sub>v2</sub> = { 4 }
 
-D<sub>v3</sub> = D<sub>v4</sub> = D<sub>v5</sub> = D<sub>v6</sub> = { 1, 2, 3, 4, 5, 6 }
+D<sub>v3</sub> = D<sub>v4</sub> = D<sub>v5</sub> = D<sub>v6</sub> = { 1, 2, 3, 4, 5, 6 } */
 
 
 
