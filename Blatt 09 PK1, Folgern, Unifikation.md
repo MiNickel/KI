@@ -47,13 +47,13 @@
 
 #### 4 Komposition von Substitution
 
-a) θσ = { a/X, b/y, c/f(z), d/u }
+a) θσ = { a / X, b / y, c / f(z), d / u }
 
-b) θσ = { a/h(D,D), b/Z, c/y, u/f(v) }
+b) θσ = { a / h(D,D), b / Z, c / y, u / f(v) }
 
-c) θσ = { a/g(D,y), b/y, c/y, x/D }
+c) θσ = { a / g(D,y), b / y, c / y, x / D }
 
-d) θσ = { a/Y, c/f(z), b/Y, v/c }
+d) θσ = { a / Y, c / f(z), b / Y, v / c }
 
 
 
@@ -63,3 +63,14 @@ d) θσ = { a/Y, c/f(z), b/Y, v/c }
 - p(f(g(B,B)), g(B,B))
 - p(f(y), g(B,B))
 - p(A, y)
+
+
+
+#### 6 Unifikatoren
+
+1. { a / f(X, Y) }
+2. { a / C, d / B }
+3. { a / C, b / C }
+4. nicht möglich
+5. { y / h(g(A)), x / g(A), u / g(A)
+6. nicht möglich
