@@ -14,9 +14,9 @@
 - Σ=(S,F,P,α)
 
   - S = { kunden, waren, läden }
-  - F = { kunde }
-  - P = { kauf, gekauft, verkauft, besitzt }
-  - α(kunde) = kunden,  α(kauf) = waren läden, α(gekauft) = waren läden, α(verkauft) = waren läden, α(besitzt) = waren, läden
+  - F = { UDO, ROSEVERSAND }
+  - P = { kunde, kauf, gekauft, verkauft, besitzt }
+  - α(kunde) = kunden, läden,  α(kauf) = waren läden kunden, α(gekauft) = kunden wären, α(verkauft) = waren läden, α(besitzt) = kunden, waren
 
 - Δ<sub>kunden</sub> = {UDO, ROSEVERBAND}, Δ<sub>waren</sub> = { essen, trinken }, Δ<sub>läden</sub> = { wez, edeka }
 
